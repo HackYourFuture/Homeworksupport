@@ -1,10 +1,9 @@
 # Homework Review Process
 
 ## Before you start
-
-1. Optionally use the VSCode **GitHub Pull Request** extension to streamline the review workflow. With this extension you can quickly check out pull requests without having to individually clone and `npm install` each student's repository.
-
-2. Put yourself up to **Watch** ('Be notified of all conversations') the corresponding repository on the HackYourHomework GitHub organization account, to get notified when Pull Requests come in and again when they are updated.
+1. [This](https://github.com/HackYourHomework) is the github account where our students submit their homework. Please send your username to Tjebbe on Slack, then he will add you to the organization. 
+2. Optionally use the VSCode **GitHub Pull Request** extension to streamline the review workflow. With this extension you can quickly check out pull requests without having to individually clone and `npm install` each student's repository.
+3. Put yourself up to **Watch** ('Be notified of all conversations') the corresponding repository on the HackYourHomework GitHub organization account, to get notified when Pull Requests come in and again when they are updated.
 
 ##  Review process
 
