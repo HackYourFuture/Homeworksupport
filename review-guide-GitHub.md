@@ -75,6 +75,6 @@ When you have the feeling that a student needs more guidance, feel free to conta
 
 ### 5. Summary at the beginning
 When you finished your review, it’s recommended to write a small summary at the top where you: 
-can give a compliment to the student
-Let them know if they need to make changes 
-Reflect upon the topics for that week  and if you think (s)he understands them. 
+- Give a compliment to the student
+- Let them know if they need to make changes 
+- Reflect upon the topics for that week  and if you think (s)he understands them. 
